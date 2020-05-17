@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+
+  <title>Trabalho Prático do Módulo 1</title>
+</head>
+
+<body>
+  <h1>RGB Preview</h1>
+
+  <div class="grid">
+    <strong>(R) Vermelho: </strong>
+    <input type="range" id="sliderR" class="slider" min="0" value="0" max="255">
+    <input type="text" id="textR" class="inputText" disabled value="0">
+
+    <strong>(G) Verde: </strong>
+    <input type="range" id="sliderG" class="slider" min="0" value="0" max="255">
+    <input type="text" id="textG" class="inputText" disabled value="0">
+
+    <strong>(B) Azul: </strong>
+    <input type="range" id="sliderB" class="slider" min="0" value="0" max="255">
+    <input type="text" id="textB" class="inputText" disabled value="0">
+  </div>
+
+  <div id="square">
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>

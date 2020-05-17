@@ -1,0 +1,31 @@
+body{
+  background-color: #cccccc;
+  border-color:darkgray;
+  border-style: solid;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+.inputText{
+  width: 30px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  margin: 20px;
+}
+
+#square{
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-color:#6262625d;
+  border-style: solid;
+}
+
+
