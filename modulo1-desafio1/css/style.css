@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+h4{
+    margin:10px;
+}
+
+.user-container{
+    display: flex;
+}
+
+.user-list{
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.user-information{
+    display: flex;
+    align-items: center;
+    
+}
+.user-detail{
+    margin: 20px;
+}
