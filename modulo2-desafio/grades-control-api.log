@@ -1,0 +1,101 @@
+2020-06-06T21:21:51.077Z [grades-control-api] info: API started 
+2020-06-06T21:21:54.517Z [grades-control-api] info: GET / account 
+2020-06-06T21:22:31.761Z [grades-control-api] error: GET / account /ID - Cannot read property 'find' of undefined 
+2020-06-06T21:23:07.652Z [grades-control-api] info: API started 
+2020-06-06T21:23:46.699Z [grades-control-api] info: API started 
+2020-06-06T21:24:40.966Z [grades-control-api] info: API started 
+2020-06-06T21:25:10.944Z [grades-control-api] info: API started 
+2020-06-06T21:25:14.624Z [grades-control-api] info: GET / grade 
+2020-06-06T21:29:13.066Z [grades-control-api] info: API started 
+2020-06-06T21:30:06.701Z [grades-control-api] info: API started 
+2020-06-06T21:43:23.904Z [grades-control-api] info: API started 
+2020-06-06T21:43:25.814Z [grades-control-api] info: GET / grade 
+2020-06-06T21:43:50.025Z [grades-control-api] info: API started 
+2020-06-06T21:47:30.425Z [grades-control-api] info: API started 
+2020-06-06T21:47:41.840Z [grades-control-api] info: API started 
+2020-06-06T21:47:43.503Z [grades-control-api] error: GET / grade /ID - ENOENT: no such file or directory, open 'C:\Front\projetos git\grades.json' 
+2020-06-06T21:47:59.152Z [grades-control-api] info: API started 
+2020-06-06T21:53:13.193Z [grades-control-api] info: API started 
+2020-06-06T21:55:11.218Z [grades-control-api] info: API started 
+2020-06-06T21:55:12.800Z [grades-control-api] error: GET / grade /ID - ENOENT: no such file or directory, open 'C:\Front\projetos git\modulo2-desafio\modulo2-desafio\data\grades.json' 
+2020-06-06T21:55:24.093Z [grades-control-api] info: API started 
+2020-06-06T22:01:02.162Z [grades-control-api] info: API started 
+2020-06-06T22:01:13.071Z [grades-control-api] error: GET / grade /ID - Cannot read property 'find' of undefined 
+2020-06-06T22:01:35.658Z [grades-control-api] info: API started 
+2020-06-06T22:05:14.140Z [grades-control-api] info: API started 
+2020-06-06T22:05:15.766Z [grades-control-api] info: API started 
+2020-06-06T22:05:56.257Z [grades-control-api] info: API started 
+2020-06-06T22:06:04.606Z [grades-control-api] info: API started 
+2020-06-06T22:07:20.749Z [grades-control-api] info: API started 
+2020-06-06T22:08:42.839Z [grades-control-api] info: API started 
+2020-06-06T22:19:24.617Z [grades-control-api] info: API started 
+2020-06-06T22:20:56.320Z [grades-control-api] info: API started 
+2020-06-06T22:26:18.936Z [grades-control-api] info: API started 
+2020-06-06T22:28:07.270Z [grades-control-api] info: API started 
+2020-06-06T22:30:40.736Z [grades-control-api] info: API started 
+2020-06-06T22:30:42.171Z [grades-control-api] info: GET / grade 
+2020-06-06T22:31:24.556Z [grades-control-api] info: API started 
+2020-06-06T22:34:56.217Z [grades-control-api] info: API started 
+2020-06-06T22:35:06.673Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T22:35:47.144Z [grades-control-api] info: API started 
+2020-06-06T22:35:50.559Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:00:44.862Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:01:37.130Z [grades-control-api] info: API started 
+2020-06-06T23:01:40.972Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:02:25.074Z [grades-control-api] info: API started 
+2020-06-06T23:02:27.000Z [grades-control-api] info: API started 
+2020-06-06T23:02:31.669Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:02:32.490Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:02:42.617Z [grades-control-api] info: API started 
+2020-06-06T23:02:44.315Z [grades-control-api] error: PUT / grade - acc is not defined 
+2020-06-06T23:03:26.525Z [grades-control-api] info: API started 
+2020-06-06T23:03:27.880Z [grades-control-api] error: PUT / grade - people is not defined 
+2020-06-06T23:03:33.123Z [grades-control-api] info: API started 
+2020-06-06T23:03:34.471Z [grades-control-api] error: PUT / grade - Invalid status code: 56 
+2020-06-06T23:03:47.689Z [grades-control-api] info: API started 
+2020-06-06T23:03:48.941Z [grades-control-api] info: API started 
+2020-06-06T23:04:07.850Z [grades-control-api] info: API started 
+2020-06-06T23:07:32.910Z [grades-control-api] info: API started 
+2020-06-06T23:07:43.704Z [grades-control-api] info: API started 
+2020-06-06T23:12:58.252Z [grades-control-api] info: API started 
+2020-06-06T23:16:12.778Z [grades-control-api] info: API started 
+2020-06-06T23:20:27.436Z [grades-control-api] info: API started 
+2020-06-06T23:21:19.150Z [grades-control-api] info: API started 
+2020-06-06T23:21:21.106Z [grades-control-api] error: PUT / grade - numberFormat is not defined 
+2020-06-06T23:21:43.478Z [grades-control-api] info: API started 
+2020-06-06T23:21:45.079Z [grades-control-api] error: PUT / grade - Cannot access 'formatNumber' before initialization 
+2020-06-06T23:21:54.523Z [grades-control-api] info: API started 
+2020-06-06T23:21:55.996Z [grades-control-api] error: PUT / grade - numberFormat is not defined 
+2020-06-06T23:22:44.309Z [grades-control-api] info: API started 
+2020-06-06T23:22:45.785Z [grades-control-api] error: PUT / grade - numberFormat is not defined 
+2020-06-06T23:22:51.768Z [grades-control-api] info: API started 
+2020-06-06T23:23:15.989Z [grades-control-api] info: API started 
+2020-06-06T23:24:24.453Z [grades-control-api] info: API started 
+2020-06-06T23:24:32.170Z [grades-control-api] info: API started 
+2020-06-06T23:25:34.868Z [grades-control-api] info: API started 
+2020-06-06T23:25:51.607Z [grades-control-api] info: API started 
+2020-06-06T23:26:08.205Z [grades-control-api] info: API started 
+2020-06-06T23:31:11.810Z [grades-control-api] info: API started 
+2020-06-06T23:31:39.823Z [grades-control-api] info: API started 
+2020-06-06T23:32:22.673Z [grades-control-api] info: API started 
+2020-06-06T23:36:42.618Z [grades-control-api] info: API started 
+2020-06-06T23:37:23.371Z [grades-control-api] info: API started 
+2020-06-06T23:38:00.921Z [grades-control-api] info: API started 
+2020-06-06T23:38:18.502Z [grades-control-api] info: API started 
+2020-06-06T23:38:31.459Z [grades-control-api] info: API started 
+2020-06-06T23:39:44.779Z [grades-control-api] info: POST / grade - {"id":49,"timestamp":"2020-06-06T20:39:44.777Z","student":"Fabricio","subject":"React","type":"Fórum","value":2} 
+2020-06-06T23:39:45.151Z [grades-control-api] info: API started 
+2020-06-06T23:39:52.754Z [grades-control-api] info: POST / grade - {"id":50,"timestamp":"2020-06-06T20:39:52.748Z","student":"Fabricio","subject":"React","type":"Fórum","value":5} 
+2020-06-06T23:39:53.115Z [grades-control-api] info: API started 
+2020-06-06T23:39:57.337Z [grades-control-api] info: GET / grade 
+2020-06-06T23:43:40.460Z [grades-control-api] info: API started 
+2020-06-06T23:47:03.934Z [grades-control-api] info: API started 
+2020-06-06T23:47:08.114Z [grades-control-api] info: API started 
+2020-06-06T23:47:13.486Z [grades-control-api] info: API started 
+2020-06-06T23:48:04.640Z [grades-control-api] info: API started 
+2020-06-06T23:48:55.222Z [grades-control-api] info: API started 
+2020-06-06T23:50:35.416Z [grades-control-api] info: POST / grade - {"id":49,"timestamp":"2020-06-06T20:50:35.414Z","student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10} 
+2020-06-06T23:50:35.815Z [grades-control-api] info: API started 
+2020-06-06T23:52:02.766Z [grades-control-api] info: API started 
+2020-06-06T23:54:01.197Z [grades-control-api] info: API started 
+2020-06-06T23:54:53.649Z [grades-control-api] info: API started 
